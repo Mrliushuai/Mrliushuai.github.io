@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ls&#39;s blog</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-07-22T08:17:18.808Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>ls</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小程序容器</title>
+    <link href="http://example.com/2022/07/22/appletContainer/"/>
+    <id>http://example.com/2022/07/22/appletContainer/</id>
+    <published>2022-07-22T08:09:28.364Z</published>
+    <updated>2022-07-22T08:17:18.808Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;一-小程序容器架构图&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-小程序容器架构图&quot;&gt;&lt;/a&gt; 一、小程序容器架构图&lt;/h4&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="iOS" scheme="http://example.com/categories/iOS/"/>
+    
+    
+    <category term="programme" scheme="http://example.com/tags/programme/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于GitHub的Hexo博客</title>
+    <link href="http://example.com/2022/07/21/hexo1/"/>
+    <id>http://example.com/2022/07/21/hexo1/</id>
+    <published>2022-07-21T08:21:49.081Z</published>
+    <updated>2022-07-22T07:04:21.572Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;用MacBook搭建Hexo博客于Github上的过程。&lt;/p&gt;
+&lt;h2 id=&quot;环境配置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#环境配置&quot;&gt;&lt;/a&gt; 环境配置&lt;/h2&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    
+    
+    <category term="Technology" scheme="http://example.com/tags/Technology/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 主题 pure</title>
+    <link href="http://example.com/2022/07/21/hexo2/"/>
+    <id>http://example.com/2022/07/21/hexo2/</id>
+    <published>2022-07-21T08:21:49.081Z</published>
+    <updated>2022-07-22T07:28:38.431Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;记录一下我在使用pure主题的过程。&lt;/p&gt;
+&lt;h2 id=&quot;配置说明&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#配置说明&quot;&gt;&lt;/a&gt; 配置说明&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;在 Hexo 中有两份主要的配置文件，其名称都是</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    
+    
+    <category term="Technology" scheme="http://example.com/tags/Technology/"/>
+    
+  </entry>
+  
+</feed>
