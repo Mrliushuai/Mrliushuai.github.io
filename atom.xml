@@ -44,8 +44,8 @@
   
   <entry>
     <title>基于GitHub的Hexo博客</title>
-    <link href="http://example.com/2022/07/21/hexo1/"/>
-    <id>http://example.com/2022/07/21/hexo1/</id>
+    <link href="http://example.com/2022/07/21/hexofirst/"/>
+    <id>http://example.com/2022/07/21/hexofirst/</id>
     <published>2022-07-21T08:21:49.081Z</published>
     <updated>2022-07-22T07:04:21.572Z</updated>
     
@@ -71,8 +71,8 @@
   
   <entry>
     <title>Hexo 主题 pure</title>
-    <link href="http://example.com/2022/07/21/hexo2/"/>
-    <id>http://example.com/2022/07/21/hexo2/</id>
+    <link href="http://example.com/2022/07/21/hexosecond/"/>
+    <id>http://example.com/2022/07/21/hexosecond/</id>
     <published>2022-07-21T08:21:49.081Z</published>
     <updated>2022-07-22T07:28:38.431Z</updated>
     
