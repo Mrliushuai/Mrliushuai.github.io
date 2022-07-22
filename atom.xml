@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ls&#39;s blog</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>http://mrliushuai.github.io/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://mrliushuai.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-07-22T10:01:27.099Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://mrliushuai.github.io/"/>
+  <updated>2022-07-22T10:03:41.390Z</updated>
+  <id>http://mrliushuai.github.io/</id>
   
   <author>
     <name>ls</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>小程序容器</title>
-    <link href="http://example.com/2022/07/22/appletContainer/"/>
-    <id>http://example.com/2022/07/22/appletContainer/</id>
+    <link href="http://mrliushuai.github.io/2022/07/22/appletContainer/"/>
+    <id>http://mrliushuai.github.io/2022/07/22/appletContainer/</id>
     <published>2022-07-22T08:09:28.364Z</published>
-    <updated>2022-07-22T10:01:27.099Z</updated>
+    <updated>2022-07-22T10:03:41.390Z</updated>
     
     
       
@@ -36,17 +36,17 @@
     
     
     
-    <category term="iOS" scheme="http://example.com/categories/iOS/"/>
+    <category term="iOS" scheme="http://mrliushuai.github.io/categories/iOS/"/>
     
     
-    <category term="programme" scheme="http://example.com/tags/programme/"/>
+    <category term="programme" scheme="http://mrliushuai.github.io/tags/programme/"/>
     
   </entry>
   
   <entry>
     <title>基于GitHub的Hexo博客</title>
-    <link href="http://example.com/2022/07/21/hexofirst/"/>
-    <id>http://example.com/2022/07/21/hexofirst/</id>
+    <link href="http://mrliushuai.github.io/2022/07/21/hexofirst/"/>
+    <id>http://mrliushuai.github.io/2022/07/21/hexofirst/</id>
     <published>2022-07-21T08:21:49.081Z</published>
     <updated>2022-07-22T07:04:21.572Z</updated>
     
@@ -63,17 +63,17 @@
     
     
     
-    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://mrliushuai.github.io/categories/Hexo/"/>
     
     
-    <category term="Technology" scheme="http://example.com/tags/Technology/"/>
+    <category term="Technology" scheme="http://mrliushuai.github.io/tags/Technology/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 主题 pure</title>
-    <link href="http://example.com/2022/07/21/hexosecond/"/>
-    <id>http://example.com/2022/07/21/hexosecond/</id>
+    <link href="http://mrliushuai.github.io/2022/07/21/hexosecond/"/>
+    <id>http://mrliushuai.github.io/2022/07/21/hexosecond/</id>
     <published>2022-07-21T08:21:49.081Z</published>
     <updated>2022-07-22T07:28:38.431Z</updated>
     
@@ -91,10 +91,10 @@
     
     
     
-    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://mrliushuai.github.io/categories/Hexo/"/>
     
     
-    <category term="Technology" scheme="http://example.com/tags/Technology/"/>
+    <category term="Technology" scheme="http://mrliushuai.github.io/tags/Technology/"/>
     
   </entry>
   
